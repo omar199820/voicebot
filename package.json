@@ -1,0 +1,30 @@
+{
+  "name": "web-speech-ai",
+  "version": "1.0.0",
+  "description": "Simple AI Chat Bot Demo with Web Speech API",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tunnel": "ngrok http 8080"
+  },
+  "author": "Tomomi Imura",
+  "license": "MIT",
+  "dependencies": {
+    "actions-on-google": "^2.12.0",
+    "apiai": "^4.0.3",
+    "body-parser": "^1.19.0",
+    "dialogflow": "^4.0.3",
+    "dialogflow-fulfillment": "^0.6.1",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "gender-detection": "^0.1.0",
+    "mysql": "^2.18.1",
+    "ngrok": "^3.2.7",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "ngrok": "^3.2.7",
+    "nodemon": "^2.0.3"
+  }
+}
