@@ -21,7 +21,7 @@
     "gender-detection": "^0.1.0",
     "mysql": "^2.18.1",
     "ngrok": "^3.2.7",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "ngrok": "^3.2.7",
