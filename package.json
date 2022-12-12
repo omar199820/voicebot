@@ -17,7 +17,7 @@
     "dialogflow-fulfillment": "^0.6.1",
     "dotenv": "^4.0.0",
     "ejs": "^2.5.6",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "gender-detection": "^0.1.0",
     "mysql": "^2.18.1",
     "ngrok": "^3.2.7",
